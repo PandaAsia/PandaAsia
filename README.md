@@ -19,6 +19,3 @@
   <span>   </span>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaAsia&theme=highcontrast&hide_border=false">
 </div>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PandaAsia&limit=5&theme=react&combine_all_yearly_contributions=true)
