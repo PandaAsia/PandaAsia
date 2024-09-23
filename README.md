@@ -15,6 +15,11 @@
 </p>
 
 # 📊 GitHub Stats:
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaAsia&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaAsia&theme=highcontrast&hide_border=false">
+</div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaAsia&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PandaAsia&theme=highcontrast&hide_border=false)
 
