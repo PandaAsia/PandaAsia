@@ -1,3 +1,6 @@
+![Panel de Jerry Garcia](https://raw.githubusercontent.com/PandaAsia/Portadas01/refs/heads/main/gj.webp)
+
+
 # 💫 About Me:
 ¡Hola! Soy un programador joven apasionado por la tecnología y la programación. Me encanta aprender y explorar nuevas tecnologías. Tengo experiencia en el desarrollo front-end, pero también estoy ampliando mis habilidades en back-end. Me considero adaptable y siempre busco mejorar y enfrentar nuevos desafíos en cualquier área del desarrollo web. ¡Estoy emocionado por colaborar en proyectos innovadores y seguir creciendo como desarrollador!
 
