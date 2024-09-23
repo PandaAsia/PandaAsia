@@ -18,4 +18,8 @@
 [![](https://visitcount.itsvg.in/api?id=PandaAsia&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jerry Garcia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jerry Anthony Garcia Tanta) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/garciatantajerryanthony/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
+  <a href="https://pandaasia.github.io/Portafolio-ver-2/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jerry Anthony Garcia Tanta)   
+</p>
