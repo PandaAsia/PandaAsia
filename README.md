@@ -1,4 +1,3 @@
-# Hola
 ![Panel de Jerry Garcia](https://raw.githubusercontent.com/PandaAsia/Portadas01/refs/heads/main/gj.webp)
 
 ### Sobre mí
